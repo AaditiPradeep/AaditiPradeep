@@ -21,7 +21,6 @@
 - Pragati: Path to Future (Infosys Springboard)
 - *Preparing for AWS Solutions Architect*
 
----
 
 ## 📫 Let's Connect!
 
