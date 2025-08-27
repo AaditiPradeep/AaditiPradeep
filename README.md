@@ -25,7 +25,7 @@
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn] (https://www.linkedin.com/in/aaditi-pradeep-34a13a219/)
-- 📧 [Gmail] (pradeepaaditi@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/aaditi-pradeep-34a13a219/)
+- 📧 [Gmail](pradeepaaditi@gmail.com)
 
 ✨ Always open to collaborating on innovative projects and learning something new!
