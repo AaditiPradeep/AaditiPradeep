@@ -5,7 +5,6 @@
 🌱 Currently exploring **Generative AI** and **Cloud Computing** 
 📍 Based in Chennai, India
 
----
 
 ## 🔧 Skills & Tools
 
@@ -14,7 +13,6 @@
 - **Tools & Platforms:** Microsoft Azure, Linux, Oracle SQL, Postman, Firebase  
 - **Core CS:** DSA, OOP, OS, Networks, Databases, Compilers, TOC, Computer Architecture
 
----
 
 ## 💼 Experience
 
@@ -24,7 +22,6 @@
 - **Front-End Developer Intern @ ParkQwik** (July 2025) 
   Redesigned key user-facing pages of a parking management app using HTML, CSS & Figma.
 
----
 
 ## 📌 Projects
 
@@ -37,7 +34,6 @@
 - **Packet-Filtering Firewall**  
   → Linux-based firewall with IP & port-based rule validation.
 
----
 
 ## 🌟 Leadership & Community
 
@@ -47,7 +43,6 @@
 - **Vice President of Education, Toastmasters (Sophrosyne Club @ VIT Chennai)**  
   Organizing meetings, mentoring members & representing club in speech contests.
 
----
 
 ## 📜 Certifications
 
