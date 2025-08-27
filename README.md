@@ -14,36 +14,6 @@
 - **Core CS:** DSA, OOP, OS, Networks, Databases, Compilers, TOC, Computer Architecture
 
 
-## 💼 Experience
-
-- **Summer Research Intern @ VIT Chennai** (May 2025 - Present)
-  Fine-tuning Qwen-VL for generating captions of hand-drawn academic diagrams.
-
-- **Front-End Developer Intern @ ParkQwik** (July 2025) 
-  Redesigned key user-facing pages of a parking management app using HTML, CSS & Figma.
-
-
-## 📌 Projects
-
-- **Recipe Finder Web App**  
-  → Full-stack recipe search app with React, Node.js & MongoDB.
-
-- **Hospital Appointment System**  
-  → Web-based scheduling system with Firebase integration.
-
-- **Packet-Filtering Firewall**  
-  → Linux-based firewall with IP & port-based rule validation.
-
-
-## 🌟 Leadership & Community
-
-- **Microsoft Learn Student Ambassador – Beta**  
-  Leading workshops & coding challenges on Azure, AI/ML, and Cloud Computing.
-
-- **Vice President of Education, Toastmasters (Sophrosyne Club @ VIT Chennai)**  
-  Organizing meetings, mentoring members & representing club in speech contests.
-
-
 ## 📜 Certifications
 
 - Certified Generative AI Professional – Oracle
@@ -55,7 +25,7 @@
 
 ## 📫 Let's Connect!
 
-- 💼 https://www.linkedin.com/in/aaditi-pradeep-34a13a219/
-- 📧 pradeepaaditi@gmail.com
+- 💼 [LinkedIn] (https://www.linkedin.com/in/aaditi-pradeep-34a13a219/)
+- 📧 [Gmail] (pradeepaaditi@gmail.com)
 
 ✨ Always open to collaborating on innovative projects and learning something new!
